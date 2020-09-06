@@ -44,9 +44,12 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: icons
+  link: https://www.researchgate.net/profile/Agustin_Alesso
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-0657-0253
+- icon: ai-google-scholar-square
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=es&user=CS5gml0AAAAJ
 - icon: github
   icon_pack: fab
