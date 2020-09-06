@@ -67,11 +67,5 @@ user_groups:
 - Visitors
 ---
 
-I am a data scientist with a solid background in agronomy. I received my Ph.D. in Agronomy from National University of Córdoba (Argentina) in 2014. My reasearch interests can be summarized by the intersection of agronomy, applied statistics, and informatics. I want to bring new data science approaches into agriculture to help farmers making their decisions based in data.
-
-I recently joined the University of Illinois at Urbana-Champaign with a Postdoctoral Research Associate position in the Department of Crop Sciences. In this position, I am working on new ways to conduct and analyze on-farm experiments for precision agriculture. 
-
-I worked as an Assistant Professor of Statistics in the Department of Agricultural Sciences at National University of the Littoral (Argentina) for four years. During this position I have specialized in the integration of soil, crop and environmental data using statistical modeling and crop simulation techniques, to understand the biological processes that take place in production systems accounting for spatial and temporal variability of these data. Results from my research and collaborations in different disciplines, which I greatly enjoyed and have broaden my knowledge base, are published in both the agronomy and soil science peer reviewed journals. In addition I served to the Ag community by teaching graduate and undergraduate courses as well as provinding consulting services on statistical analysis of agriculture data.
-
-For a list of my peer-reviewed publications, please visit my [ResearchGate](https://www.researchgate.net/profile/Agustin_Alesso) profile. My full CV can be downdowaded [here]().
+I am a data scientist with a solid background in agronomy. I am an Assistant Professor of Statistics in the Department of Agricultural Sciences at National University of the Littoral (Argentina). My reasearch interests can be summarized by the intersection of agronomy, applied statistics, and informatics. I recently joined the University of Illinois at Urbana-Champaign with a Postdoctoral Research Associate position in the Department of Crop Sciences. In this position, I am working on new ways to conduct and analyze on-farm experiments for precision agriculture.
 
