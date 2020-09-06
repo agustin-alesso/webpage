@@ -1,7 +1,7 @@
-# Academic Website Builder
-# https://sourcethemes.com/academic/
+# Configuration of Hugo
+# Guide: https://sourcethemes.com/academic/docs/get-started/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 #
-# The presence of this file is for compatibility with Blogdown and Forestry.
-# If you are not using those tools, this file may be deleted.
-#
-# The actual configuration files are stored in the `config/_default/` folder.
+# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
+# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
+
